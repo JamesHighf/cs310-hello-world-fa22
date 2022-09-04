@@ -13,6 +13,11 @@ public class Class1 {
     }
     private void f3() {
         // v3.0
+<<<<<<< HEAD
         //sample change
+=======
+    private void f4() {
+       // v3.0
+>>>>>>> newfeature
     }
 }
